@@ -1,0 +1,32 @@
+body {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    background-color: #fef1df;
+}
+
+  
+li {
+    display: inline-block;
+    margin-right: 25px;
+    
+}
+
+li a {
+    text-decoration: none;
+    font-size: 22px;
+    color: #3c2f2f;
+}
+
+.content {
+    padding-top: 40px;
+}
+
+ul {   
+    list-style: none;
+    padding-top: 5px;
+    padding-right: 50px;
+    
+}
